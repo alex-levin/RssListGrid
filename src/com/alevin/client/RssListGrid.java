@@ -1,7 +1,6 @@
 package com.alevin.client;
 
 import com.google.gwt.core.client.EntryPoint;
-import com.google.gwt.core.client.GWT;
 import com.smartgwt.client.data.DataSource;
 import com.smartgwt.client.data.fields.DataSourceLinkField;
 import com.smartgwt.client.data.fields.DataSourceTextField;
